@@ -1,4 +1,4 @@
-package org.example.controller;
+package org.example.strategyFirstExample.controller;
 
 public abstract class ScoreAlgorithmBase {
 

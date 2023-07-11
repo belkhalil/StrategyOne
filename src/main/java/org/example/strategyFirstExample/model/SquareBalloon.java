@@ -1,6 +1,6 @@
-package org.example.model;
+package org.example.strategyFirstExample.model;
 
-import org.example.controller.ScoreAlgorithmBase;
+import org.example.strategyFirstExample.controller.ScoreAlgorithmBase;
 
 public class SquareBalloon extends ScoreAlgorithmBase {
     @Override
